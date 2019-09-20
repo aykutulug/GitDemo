@@ -6,6 +6,7 @@ public class AppiumTest {
 	@Test
 	public void NatuveAppAndroid() {
 		System.out.println("NatuveAppAndroid");
+		
 	}
 
 	@Test
