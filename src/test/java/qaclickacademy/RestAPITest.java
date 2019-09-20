@@ -20,4 +20,11 @@ public class RestAPITest {
 	public void deleteTwitter() {
 		System.out.println("deleteTwitter");
 	}
+	@Test
+	public void deleteTwitters() {
+		System.out.println("deletedTwitter");
+	}@Test
+	public void deleteTwitterd() {
+		System.out.println("deleteddTwitter");
+	}
 }
